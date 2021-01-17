@@ -1,7 +1,0 @@
-[
-  {
-    "type": "SPECIES",
-    "id": "EVILMOOSE",
-    "anger_triggers": [ "HURT", "PLAYER_CLOSE" ]
-  }
-]
