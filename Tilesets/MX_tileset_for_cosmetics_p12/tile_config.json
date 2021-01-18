@@ -9884,6 +9884,7 @@
           ],
           "fg": 4109,
           "rotates": true,
+          "multitile": true,
           "additional_tiles": [ { "id": "broken", "fg": 3987, "bg": 4109 } ]
         },
         {
