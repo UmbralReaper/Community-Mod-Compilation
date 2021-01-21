@@ -46,8 +46,7 @@
           "storage_battery_mount",
           "storage_battery_removable",
           "wheel_mount_medium_steerable",
-          "wheel",
-          null
+          "wheel"
         ]
       }
     ]
@@ -113,7 +112,6 @@
           "hdframe_vertical",
           "wheel_mount_heavy_steerable",
           "wheel_armor",
-          null,
           "hdboard_vertical",
           "omnicam",
           "plating_military"
@@ -166,7 +164,6 @@
           "hdframe_vertical",
           "wheel_mount_heavy_steerable",
           "wheel_armor",
-          null,
           "hdboard_vertical",
           "omnicam",
           "plating_military"

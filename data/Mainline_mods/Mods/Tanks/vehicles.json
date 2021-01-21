@@ -57,7 +57,6 @@
           "hdhalfboard_ne",
           "turret_mount",
           { "part": "mounted_browning", "ammo": 60, "ammo_qty": [ 10, 100 ] },
-          null,
           "plating_military"
         ]
       },
@@ -825,7 +824,6 @@
             "ammo": 60,
             "ammo_qty": [ 1, 5 ]
           },
-          null,
           "hdroof"
         ]
       },
@@ -1220,7 +1218,6 @@
           "seatbelt_heavyduty",
           "turret_mount",
           { "part": "tow_turret", "ammo": 60, "ammo_qty": [ 1, 2 ] },
-          null,
           "controls",
           "dashboard",
           "cam_control",

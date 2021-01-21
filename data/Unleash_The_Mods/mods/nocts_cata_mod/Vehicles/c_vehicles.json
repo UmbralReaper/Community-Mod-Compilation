@@ -15,8 +15,7 @@
           "omnicam",
           "storage_battery_mount",
           "storage_battery_removable",
-          "plating_hard",
-          null
+          "plating_hard"
         ]
       },
       {
@@ -29,8 +28,7 @@
           "ups_rifle_t",
           "bike_rack",
           "muffler",
-          "plating_hard",
-          null
+          "plating_hard"
         ]
       },
       {
@@ -53,8 +51,7 @@
           "ups_rifle_t",
           "bike_rack",
           "muffler",
-          "plating_hard",
-          null
+          "plating_hard"
         ]
       },
       {
@@ -68,8 +65,7 @@
           "omnicam",
           "storage_battery_mount",
           "storage_battery_removable",
-          "plating_hard",
-          null
+          "plating_hard"
         ]
       },
       {
@@ -174,8 +170,7 @@
           "hddoor",
           "inboard_mirror",
           "plating_hard",
-          "door_motor",
-          null
+          "door_motor"
         ]
       },
       {
@@ -193,8 +188,7 @@
           "dashboard",
           "vehicle_clock",
           "vehicle_alarm",
-          "stereo",
-          null
+          "stereo"
         ]
       },
       {
@@ -218,8 +212,7 @@
           "hddoor",
           "inboard_mirror",
           "plating_hard",
-          "door_motor",
-          null
+          "door_motor"
         ]
       },
       { "x": 1, "y": -1, "parts": [ "hdframe_nw", "reinforced_windshield", "omnicam", "plating_hard" ] },
@@ -285,8 +278,7 @@
           "storage_battery_removable",
           "cargo_space",
           "wheel_mount_medium_steerable",
-          "wheel_wide_or",
-          null
+          "wheel_wide_or"
         ]
       },
       { "x": -2, "y": 0, "parts": [ "seed_drill_advanced" ] },
@@ -300,8 +292,7 @@
           "storage_battery_removable",
           "cargo_space",
           "wheel_mount_medium_steerable",
-          "wheel_wide_or",
-          null
+          "wheel_wide_or"
         ]
       },
       {
@@ -353,8 +344,7 @@
           "frame_wood_light_vertical",
           "seat_wood",
           "turret_mount",
-          { "ammo_types": [ "reloaded_762_54R" ], "part": "surv_lmg_762R_t", "ammo": 60, "ammo_qty": [ 5, 75 ] },
-          null
+          { "ammo_types": [ "reloaded_762_54R" ], "part": "surv_lmg_762R_t", "ammo": 60, "ammo_qty": [ 5, 75 ] }
         ]
       },
       { "x": -2, "y": 1, "parts": [ "frame_wood_light_vertical", "wheel_wood_b", "wooden_aisle_horizontal" ] },

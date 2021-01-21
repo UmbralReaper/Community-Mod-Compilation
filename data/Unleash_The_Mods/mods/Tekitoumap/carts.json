@@ -13,7 +13,6 @@
           "reclining_seat",
           "wheel_mount_light",
           "wheel_wheelchair",
-          null,
           "storage_battery_mount",
           "storage_battery_removable",
           "engine_electric_small",
@@ -36,7 +35,6 @@
           "folding_seat",
           "wheel_mount_light",
           "wheel_wheelchair",
-          null,
           "hand_rims",
           "turret_mount",
           "mounted_m1918"
