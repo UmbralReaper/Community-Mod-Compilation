@@ -3,39 +3,39 @@
     "type": "start_location",
     "ident": "surv_camp_l",
     "name": "Survivor Camp Site",
-    "terrain": [ "surv_camp" ]
+    "target": "surv_camp"
   },
   {
     "type": "start_location",
     "ident": "Bio_Weapon_Lab_l",
     "name": "Bio Weapon Lab",
-    "terrain": [ "Bio_Weapon_Lab_b" ]
+    "target": "Bio_Weapon_Lab_b"
   },
   {
     "type": "start_location",
     "ident": "house_fight_s",
     "name": "Underground Arena",
-    "terrain": [ "sketchy_cabin_b2" ]
+    "target": "sketchy_cabin_b2"
   },
   {
     "type": "start_location",
     "ident": "lab_surface_brick_blockC0",
     "name": "Research Facility",
-    "terrain": [ "lab_surface_brick_blockC0" ],
+    "target": "lab_surface_brick_blockC0",
     "flags": [ "ALLOW_OUTSIDE" ]
   },
   {
     "type": "start_location",
     "ident": "robofachq_surface_parking",
     "name": "Hub 01",
-    "terrain": [ "robofachq_surface_parking" ],
+    "target": "robofachq_surface_parking",
     "flags": [ "ALLOW_OUTSIDE" ]
   },
   {
     "type": "start_location",
     "ident": "makeshift_command_center_1",
     "name": "Makeshift Command Center",
-    "terrain": [ "makeshift_command_center_1" ],
+    "target": "makeshift_command_center_1",
     "flags": [ "ALLOW_OUTSIDE" ]
   },
   {
@@ -43,14 +43,14 @@
     "ident": "Bio_Weapon_Lab",
     "//": "This versions is for the super soldier start, places them in the outdoors section.",
     "name": "Bio Weapon Lab",
-    "terrain": [ "Bio_Weapon_Lab" ],
+    "target": "Bio_Weapon_Lab",
     "flags": [ "ALLOW_OUTSIDE" ]
   },
   {
     "type": "start_location",
     "ident": "haz_sar_1_2",
     "name": "Hazardous Waste Sarcophagus",
-    "terrain": [ "haz_sar_1_2" ],
+    "target": "haz_sar_1_2",
     "flags": [ "ALLOW_OUTSIDE" ]
   }
 ]
