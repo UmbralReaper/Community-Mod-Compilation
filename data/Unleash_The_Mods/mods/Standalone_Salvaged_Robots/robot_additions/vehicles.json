@@ -108,14 +108,7 @@
       {
         "x": 3,
         "y": -2,
-        "parts": [
-          "hdframe_vertical",
-          "wheel_mount_heavy_steerable",
-          "wheel_armor",
-          "hdboard_vertical",
-          "omnicam",
-          "plating_military"
-        ]
+        "parts": [ "hdframe_vertical", "wheel_mount_heavy_steerable", "wheel_armor", "hdboard_vertical", "omnicam", "plating_military" ]
       },
       {
         "x": 3,
@@ -160,14 +153,7 @@
       {
         "x": 3,
         "y": 2,
-        "parts": [
-          "hdframe_vertical",
-          "wheel_mount_heavy_steerable",
-          "wheel_armor",
-          "hdboard_vertical",
-          "omnicam",
-          "plating_military"
-        ]
+        "parts": [ "hdframe_vertical", "wheel_mount_heavy_steerable", "wheel_armor", "hdboard_vertical", "omnicam", "plating_military" ]
       },
       { "x": 4, "y": -2, "parts": [ "hdframe_nw", "hdboard_nw", "plating_military" ] },
       {
